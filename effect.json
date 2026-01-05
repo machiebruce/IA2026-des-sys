@@ -1,0 +1,313 @@
+{
+  "$metadata": {
+    "collection": "Effect"
+  },
+  "dropshadow": {
+    "modeMode1": {
+      "3xs": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.051)",
+          "offsetx": "0px",
+          "offsety": "1px",
+          "blur": "2px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.0353)",
+          "offsetx": "0px",
+          "offsety": "0px",
+          "blur": "1px",
+          "spread": "0px"
+        }
+      },
+      "2xs": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.0745)",
+          "offsetx": "0px",
+          "offsety": "4px",
+          "blur": "8px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.0549)",
+          "offsetx": "0px",
+          "offsety": "1px",
+          "blur": "7px",
+          "spread": "0px"
+        }
+      },
+      "xs": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.102)",
+          "offsetx": "0px",
+          "offsety": "7px",
+          "blur": "15px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.0706)",
+          "offsetx": "0px",
+          "offsety": "3px",
+          "blur": "12px",
+          "spread": "0px"
+        }
+      },
+      "sm": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.1255)",
+          "offsetx": "0px",
+          "offsety": "9px",
+          "blur": "22px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.0863)",
+          "offsetx": "0px",
+          "offsety": "4px",
+          "blur": "18px",
+          "spread": "0px"
+        }
+      },
+      "md": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.149)",
+          "offsetx": "0px",
+          "offsety": "12px",
+          "blur": "29px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.1059)",
+          "offsetx": "0px",
+          "offsety": "5px",
+          "blur": "23px",
+          "spread": "0px"
+        }
+      },
+      "lg": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.1765)",
+          "offsetx": "0px",
+          "offsety": "15px",
+          "blur": "35px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.1216)",
+          "offsetx": "0px",
+          "offsety": "6px",
+          "blur": "28px",
+          "spread": "0px"
+        }
+      },
+      "xl": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.2)",
+          "offsetx": "0px",
+          "offsety": "18px",
+          "blur": "42px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.1412)",
+          "offsetx": "0px",
+          "offsety": "7px",
+          "blur": "34px",
+          "spread": "0px"
+        }
+      }
+    },
+    "modeDefault": {
+      "3xs": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.051)",
+          "offsetx": "0px",
+          "offsety": "1px",
+          "blur": "2px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.035)",
+          "offsetx": "0px",
+          "offsety": "0px",
+          "blur": "1px",
+          "spread": "0px"
+        }
+      },
+      "2xs": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.075)",
+          "offsetx": "0px",
+          "offsety": "4px",
+          "blur": "8px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.055)",
+          "offsetx": "0px",
+          "offsety": "1px",
+          "blur": "7px",
+          "spread": "0px"
+        }
+      },
+      "xs": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.102)",
+          "offsetx": "0px",
+          "offsety": "7px",
+          "blur": "15px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.071)",
+          "offsetx": "0px",
+          "offsety": "3px",
+          "blur": "12px",
+          "spread": "0px"
+        }
+      },
+      "sm": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.125)",
+          "offsetx": "0px",
+          "offsety": "9px",
+          "blur": "22px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.086)",
+          "offsetx": "0px",
+          "offsety": "4px",
+          "blur": "18px",
+          "spread": "0px"
+        }
+      },
+      "md": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.149)",
+          "offsetx": "0px",
+          "offsety": "12px",
+          "blur": "29px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.106)",
+          "offsetx": "0px",
+          "offsety": "5px",
+          "blur": "23px",
+          "spread": "0px"
+        }
+      },
+      "lg": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.176)",
+          "offsetx": "0px",
+          "offsety": "15px",
+          "blur": "35px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.122)",
+          "offsetx": "0px",
+          "offsety": "6px",
+          "blur": "28px",
+          "spread": "0px"
+        }
+      },
+      "xl": {
+        "layer0": {
+          "color": "rgba(0, 0, 0, 0.2)",
+          "offsetx": "0px",
+          "offsety": "18px",
+          "blur": "42px",
+          "spread": "0px"
+        },
+        "layer1": {
+          "color": "rgba(0, 0, 0, 0.141)",
+          "offsetx": "0px",
+          "offsety": "7px",
+          "blur": "34px",
+          "spread": "0px"
+        }
+      }
+    }
+  },
+  "innershadow": {
+    "modeMode1": {
+      "xs": {
+        "color": "rgba(0, 0, 0, 0.051)",
+        "offsetx": "0px",
+        "offsety": "0px",
+        "blur": "0px",
+        "spread": "1px"
+      },
+      "sm": {
+        "color": "rgba(0, 0, 0, 0.1255)",
+        "offsetx": "0px",
+        "offsety": "1px",
+        "blur": "3px",
+        "spread": "1px"
+      },
+      "md": {
+        "color": "rgba(0, 0, 0, 0.2)",
+        "offsetx": "0px",
+        "offsety": "3px",
+        "blur": "6px",
+        "spread": "1px"
+      }
+    },
+    "modeDefault": {
+      "xs": {
+        "color": "rgba(0, 0, 0, 0.051)",
+        "offsetx": "0px",
+        "offsety": "0px",
+        "blur": "0px",
+        "spread": "1px"
+      },
+      "sm": {
+        "color": "rgba(0, 0, 0, 0.125)",
+        "offsetx": "0px",
+        "offsety": "1px",
+        "blur": "3px",
+        "spread": "1px"
+      },
+      "md": {
+        "color": "rgba(0, 0, 0, 0.2)",
+        "offsetx": "0px",
+        "offsety": "3px",
+        "blur": "6px",
+        "spread": "1px"
+      }
+    }
+  },
+  "blur": {
+    "modeMode1": {
+      "xs": {
+        "radius": "4px"
+      },
+      "sm": {
+        "radius": "8.699999809265137px"
+      },
+      "md": {
+        "radius": "13.300000190734863px"
+      },
+      "lg": {
+        "radius": "18px"
+      }
+    },
+    "modeDefault": {
+      "xs": {
+        "radius": "4px"
+      },
+      "sm": {
+        "radius": "8.699999809265137px"
+      },
+      "md": {
+        "radius": "13.300000190734863px"
+      },
+      "lg": {
+        "radius": "18px"
+      }
+    }
+  }
+}
