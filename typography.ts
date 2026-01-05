@@ -1,0 +1,123 @@
+/**
+ * Typography tokens used in the theme.
+ *
+ */
+
+export const myThemeTypography = {
+    heading: {
+        modeMode1: {
+            family: 'Fira Sans',
+            size: {
+                '2xl': '68px',
+                xl: '54px',
+                lg: '43px',
+                md: '35px',
+                sm: '28px',
+                xs: '22px'
+            },
+            lineheight: {
+                '2xl': '82px',
+                xl: '65px',
+                lg: '52px',
+                md: '42px',
+                sm: '34px',
+                xs: '26px'
+            },
+            letterspacing: {
+                '2xl': '0px',
+                xl: '0px',
+                lg: '0px',
+                md: '0px',
+                sm: '0px',
+                xs: '0px'
+            },
+            weight: {
+                regular: 400,
+                bold: 700
+            }
+        },
+        modeDefault: {
+            family: 'Fira Sans',
+            size: {
+                '2xl': '68px',
+                xl: '54px',
+                lg: '43px',
+                md: '35px',
+                sm: '28px',
+                xs: '22px'
+            },
+            lineheight: {
+                '2xl': '82px',
+                xl: '65px',
+                lg: '52px',
+                md: '42px',
+                sm: '34px',
+                xs: '26px'
+            },
+            letterspacing: {
+                '2xl': '0px',
+                xl: '0px',
+                lg: '0px',
+                md: '0px',
+                sm: '0px',
+                xs: '0px'
+            },
+            weight: {
+                regular: 400,
+                bold: 700
+            }
+        }
+    },
+    body: {
+        modeMode1: {
+            family: 'Sora',
+            size: {
+                lg: '18px',
+                md: '16px',
+                sm: '14px',
+                xs: '12px'
+            },
+            lineheight: {
+                lg: '22px',
+                md: '20px',
+                sm: '16px',
+                xs: '14px'
+            },
+            letterspacing: {
+                lg: '0px',
+                md: '0px',
+                sm: '0px',
+                xs: '0px'
+            },
+            weight: {
+                regular: 400,
+                bold: 700
+            }
+        },
+        modeDefault: {
+            family: 'Sora',
+            size: {
+                lg: '18px',
+                md: '16px',
+                sm: '14px',
+                xs: '12px'
+            },
+            lineheight: {
+                lg: '22px',
+                md: '20px',
+                sm: '16px',
+                xs: '14px'
+            },
+            letterspacing: {
+                lg: '0px',
+                md: '0px',
+                sm: '0px',
+                xs: '0px'
+            },
+            weight: {
+                regular: 400,
+                bold: 700
+            }
+        }
+    }
+};
